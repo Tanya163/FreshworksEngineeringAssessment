@@ -35,6 +35,10 @@ STEP 3:Now after the import you can easily use functions from the main code file
 
 ## Languages:
 1.Python
+## Output
+![cap1](https://user-images.githubusercontent.com/76842622/103456293-b8368000-4d1a-11eb-8bc5-67959e362086.PNG)
+![cap2](https://user-images.githubusercontent.com/76842622/103456296-ba98da00-4d1a-11eb-883e-6b6ec29d9c71.PNG)
+
 ## UPDATE OPERATION CAN ALSO BE IMPLEMENTED:
 def updatedata(key,value,time_to_live):
 
